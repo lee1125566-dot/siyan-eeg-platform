@@ -1,0 +1,6 @@
+streamlit
+mne
+plotly
+openai
+scikit-learn
+numpy
